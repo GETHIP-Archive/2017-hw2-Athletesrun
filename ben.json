@@ -1,0 +1,12 @@
+{
+    "firstName": "Ben",
+    "lastName": "Wingerter",
+    "age": 17,
+    "picture": "https://upload.wikimedia.org/wikipedia/commons/4/49/Elon_Musk_2015.jpg",
+    "activities": [
+        "GET HIP",
+        "Cross Country",
+        "IT Innovation",
+        "Cyber Patriots"
+    ]
+}
