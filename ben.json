@@ -3,20 +3,17 @@
     "lastName": "Wingerter",
     "age": 17,
     "picture": "https://upload.wikimedia.org/wikipedia/commons/4/49/Elon_Musk_2015.jpg",
-    "activities": [
-        {
+    "activities": {
             "sports": [
                 "Cross Country",
                 "Soccer",
                 "Track and Field"
-            ]
-        },
-        {
+            ],
             "technology": [
                 "GET HIP",
                 "Cyber Patriots",
                 "IT Innovation"
             ]
         }
-    ]
+    }
 }
