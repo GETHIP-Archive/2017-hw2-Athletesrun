@@ -6,9 +6,22 @@ body {
 nav {
     height: 50px;
     width: 100%;
-    background-color: blue;
+    background-color: #bdbdbd;
 }
 h1 {
     margin: 0;
     padding: 0;
+}
+
+.pageContainer {
+  width: 300px;
+  margin: auto;
+  text-align: center;
+}
+.internalContainer {
+  text-align: left;
+}
+
+* {
+  font-family: Verdana;
 }
