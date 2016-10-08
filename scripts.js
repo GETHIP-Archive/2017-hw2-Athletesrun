@@ -5,9 +5,9 @@ $.getJSON("https://raw.githubusercontent.com/GETHIP-Classroom/2017-hw2-Athletesr
     $("#profile-picture").attr("src", data.picture);
     $.each(data.activities.sports, function(key, value){
         console.log(value);
-        $("#sports").append("<li>" + value + "</li>");
+        $("#sportsActivities").append("<li>" + value + "</li>");
     });
     $.each(data.activities.technology, function(key, value) {
-        $('#technology').append("<li>" + value + "</li>");
+        $('#techActivities').append("<li>" + value + "</li>");
     });
 });
